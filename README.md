@@ -1,7 +1,8 @@
 # Mohamed Absar
 
-## About Me
-BCA Graduate | MCA Aspirant
+## About MeBCA Graduate | MCA Aspirant
+
+Aspiring Data Analyst passionate about solving business problems using data. Currently learning Excel, SQL, Python, Power BI, and Machine Learning while building real-world projects.BCA Graduate | MCA Aspirant
 
 Aspiring Data Analyst & Data Scientist passionate about solving problems using data.
 
